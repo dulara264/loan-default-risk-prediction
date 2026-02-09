@@ -1,0 +1,9 @@
+
+venv/
+
+
+models/*.pkl
+
+
+.ipynb_checkpoints/
+__pycache__/

@@ -102,9 +102,7 @@ This approach ensures full reproducibility of the results.
 
 loan-default-risk-prediction/
 │
-
 ├── notebooks/
-
 │ ├── 01_eda.ipynb
 │ ├── 02_preprocessing.ipynb
 │ └── 03_modeling.ipynb

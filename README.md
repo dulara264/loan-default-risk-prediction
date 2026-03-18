@@ -1,6 +1,6 @@
 # Loan Default Risk Prediction
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on predicting whether a customer will default on a loan using
 machine learning techniques.  
 The objective is to help financial institutions assess credit risk and make
@@ -14,7 +14,7 @@ The project follows a complete and structured machine learning workflow includin
 
 ---
 
-## 📊 Dataset
+##  Dataset
 - Domain: Credit Risk / Finance
 - Number of records: ~32,000
 - Number of features: 11
@@ -27,7 +27,7 @@ customer demographics, income, loan details, and credit history.
 
 ---
 
-## 🔍 Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 EDA was performed to understand the structure and characteristics of the dataset.
 
 Key observations:
@@ -41,7 +41,7 @@ All EDA steps are available in:
 
 ---
 
-## 🧹 Data Preprocessing
+##  Data Preprocessing
 The preprocessing stage prepares the data for modeling by ensuring consistency
 and avoiding data leakage.
 
@@ -59,7 +59,7 @@ Preprocessing implementation:
 
 ---
 
-## 🤖 Models Trained
+##  Models Trained
 Two machine learning models were trained and evaluated:
 
 1. **Logistic Regression**
@@ -75,7 +75,7 @@ Model training and evaluation:
 
 ---
 
-## 🏆 Model Performance
+##  Model Performance
 The Random Forest model outperformed the baseline Logistic Regression model.
 
 Key results:
@@ -88,7 +88,7 @@ Because the dataset is imbalanced, metrics such as **ROC-AUC**, **recall**, and
 
 ---
 
-## 💾 Model Artifact
+##  Model Artifact
 The trained model file (`.pkl`) is **not included** in this repository due to
 GitHub file size limitations.
 
@@ -98,7 +98,7 @@ This approach ensures full reproducibility of the results.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Python
 - pandas, numpy
 - scikit-learn
@@ -107,7 +107,7 @@ This approach ensures full reproducibility of the results.
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 1. Clone the repository
 2. Install dependencies:
    ```bash
